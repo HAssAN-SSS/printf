@@ -80,7 +80,7 @@ free(argArray[i]);
 }
 free(argArray);
 
-return (0);
+return (finalCount);
 }
 
 
