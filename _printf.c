@@ -37,6 +37,7 @@ write(1, &format[i + 1], 1);
 finalCount++;
 
 i++;
+i++;
 }
 else
 {
